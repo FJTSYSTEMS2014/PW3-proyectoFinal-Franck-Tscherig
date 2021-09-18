@@ -1,0 +1,28 @@
+.nav {
+  
+    height: 60px;
+    box-shadow: 0px 1px 8px #810061;
+    display: flex;
+    align-items: center;
+  }
+  
+  .menu {
+    top: 100px;
+    flex: 0.5;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+    
+  
+    
+  }
+  .navfull {
+   
+      position: fixed;
+      top: 0;
+      left: 0;
+      margin: auto;
+      width: 100%;
+      background-color: rgb(248, 143, 143);
+    
+  }
